@@ -1,1 +1,3 @@
 # Coursera_C2W3
+
+I am editing the README file. Adding some more details about the project description.
